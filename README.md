@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitaroy22" alt="nikitaroy22" /></a> </p>
 
-<img alt="coding" width="480" height="360" src="https://tenor.com/oembed?url=https%3A%2F%2Ftenor.com%2Fview%2Ftest-cat-typing-typing-keyboard-cat-gif-15032476">
+<img src="https://tenor.com/oembed?url=https%3A%2F%2Ftenor.com%2Fview%2Ftest-cat-typing-typing-keyboard-cat-gif-15032476" alt="coding" width="480" height="360">
 
 - 🌱 I’m currently learning **Python, Machine learning**
 
