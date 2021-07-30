@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaroy22&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaroy22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitaroy22" alt="nikitaroy22" /></a> </p>
-<a href="https://tenor.com/view/test-cat-typing-typing-keyboard-cat-gif-15032476"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" alt="coding"/></a>
+<a><img align="right" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" alt="coding"/></a>
 
 - 🌱 I’m currently learning **Python, Machine learning**
 
