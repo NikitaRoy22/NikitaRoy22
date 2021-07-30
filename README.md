@@ -6,8 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitaroy22" alt="nikitaroy22" /></a> </p>
 
-<iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>
-<img alt="coding" width="480" height="360" frameBorder="0" src="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">
+<img alt="coding" width="480" height="360" frameBorder="0" src="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy/embed">
 
 - 🌱 I’m currently learning **Python, Machine learning**
 
