@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Nikita Roy</h1>
-<h3 align="center">Web Development and Machine Learning enthusiast | Content Writer | Currently learning Python</h3>
+<h3 align="center">Development enthusiast | Content Writer | Currently learning Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaroy22&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaroy22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitaroy22" alt="nikitaroy22" /></a> </p>
 <a><img align="right" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" alt="coding"/></a>
 
-- 🌱 I’m currently learning **Python, Machine learning**
+- 🌱 I’m currently learning **Flutter, Backend**
 
 - 📫 How to reach me **nikitaisonline0@gmail.com**
 
