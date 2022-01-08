@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/nikita-roy-615220192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-roy-615220192" height="30" width="40" /></a>
 <a href="https://instagram.com/nikita.roy._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikita.roy._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikitaroy22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikitaroy22" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/nikitaroy22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nikitaroy22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Learning:</h3>
